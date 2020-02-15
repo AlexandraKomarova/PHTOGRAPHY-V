@@ -100,11 +100,11 @@ body {
     border: none;
     padding: 5%;
     position: absolute;
-    left: 93%;
-    top: 15%;
+    left: 85%;
+    top: 17%;
     background-color: transparent;
     background-image: url(icon-b.png);
-    background-size: 120%;
+    background-size: 110%;
     background-repeat: no-repeat;
     background-position: center;
     cursor: pointer;
